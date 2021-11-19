@@ -1,3 +1,2 @@
-# 
-AgeInMinutes
+# AgeInMinutes
 Using Simple Date Format
